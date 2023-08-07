@@ -1,0 +1,1 @@
+{"ast":null,"code":"export class UserModel {\n  constructor() {\n    this.active = true;\n    this.role = \"ROLE_USER\";\n  }\n}","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}
