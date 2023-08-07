@@ -1,0 +1,24 @@
+-------------------------------------------------------------------------------
+Test set: com.example.ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 5, Errors: 0, Skipped: 0, Time elapsed: 6.715 s <<< FAILURE! - in com.example.ApplicationTests
+test_case15  Time elapsed: 0.487 s  <<< FAILURE!
+java.lang.AssertionError: Status expected:<200> but was:<404>
+	at com.example.ApplicationTests.test_case15(ApplicationTests.java:47)
+
+test_case16  Time elapsed: 0.063 s  <<< FAILURE!
+java.lang.AssertionError: Status expected:<200> but was:<404>
+	at com.example.ApplicationTests.test_case16(ApplicationTests.java:72)
+
+test_case17  Time elapsed: 0.049 s  <<< FAILURE!
+java.lang.AssertionError: Status expected:<200> but was:<404>
+	at com.example.ApplicationTests.test_case17(ApplicationTests.java:87)
+
+test_case18  Time elapsed: 0.069 s  <<< FAILURE!
+java.lang.AssertionError: Status expected:<200> but was:<404>
+	at com.example.ApplicationTests.test_case18(ApplicationTests.java:109)
+
+test_case19  Time elapsed: 0.013 s  <<< FAILURE!
+java.lang.AssertionError: Status expected:<200> but was:<404>
+	at com.example.ApplicationTests.test_case19(ApplicationTests.java:127)
+
